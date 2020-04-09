@@ -1,0 +1,166 @@
+Drama appeared more then average with a total of 4359 times
+Comedy appeared more then average with a total of 3756 times
+Thriller appeared more then average with a total of 1892 times
+Action appeared more then average with a total of 1827 times
+Romance appeared more then average with a total of 1596 times
+Adventure appeared more then average with a total of 1263 times
+Crime appeared more then average with a total of 1199 times
+Horror appeared less then average with a total of 978 times
+Sci-Fi appeared less then average with a total of 978 times
+Fantasy appeared less then average with a total of 779 times
+Children appeared less then average with a total of 664 times
+Animation appeared less then average with a total of 614 times
+Mystery appeared less then average with a total of 573 times
+Documentary appeared less then average with a total of 440 times
+War appeared less then average with a total of 382 times
+Musical appeared less then average with a total of 334 times
+Western appeared less then average with a total of 167 times
+IMAX appeared less then average with a total of 158 times
+Film-Noir appeared less then average with a total of 87 times
+
+Comedy appeared a total of 3504 times before 2015 and 252 times after 2015
+Drama appeared a total of 4135 times before 2015 and 224 times after 2015
+Action appeared a total of 1662 times before 2015 and 165 times after 2015
+Thriller appeared a total of 1759 times before 2015 and 133 times after 2015
+Adventure appeared a total of 1146 times before 2015 and 117 times after 2015
+Sci-Fi appeared a total of 877 times before 2015 and 101 times after 2015
+Horror appeared a total of 909 times before 2015 and 69 times after 2015
+Fantasy appeared a total of 715 times before 2015 and 64 times after 2015
+Crime appeared a total of 1135 times before 2015 and 64 times after 2015
+Animation appeared a total of 552 times before 2015 and 62 times after 2015
+Romance appeared a total of 1550 times before 2015 and 46 times after 2015
+Documentary appeared a total of 396 times before 2015 and 44 times after 2015
+Children appeared a total of 625 times before 2015 and 39 times after 2015
+Mystery appeared a total of 538 times before 2015 and 35 times after 2015
+War appeared a total of 374 times before 2015 and 8 times after 2015
+Western appeared a total of 160 times before 2015 and 7 times after 2015
+IMAX appeared a total of 157 times before 2015 and 1 times after 2015
+Musical appeared a total of 333 times before 2015 and 1 times after 2015
+Film-Noir appeared a total of 87 times before 2015 and 0 times after 2015
+
+Film-Noir appeared 1 time in 2012, 2 times in 2011, 1 time in 2010, 1 time in 2009, 1 time in 2006, 3 times in 2005, 1 time in 2001, 1 time in 1998, 4 times in 1997, 1 time in 1996, 1 time in 1995, 1 time in 1994, 1 time in 1993, 2 times in 1992, 2 times in 1990, 1 time in 1989, 1 time in 1988, 2 times in 1987, 1 time in 1986, 1 time in 1984, 1 time in 1974, 1 time in 1973, 1 time in 1963, 1 time in 1960, 1 time in 1958, 1 time in 1957, 4 times in 1956, 4 times in 1955, 1 time in 1954, 1 time in 1953, 1 time in 1951, 4 times in 1950, 4 times in 1949, 3 times in 1948, 6 times in 1947, 8 times in 1946, 2 times in 1945, 2 times in 1944, 2 times in 1942, 3 times in 1941, 2 times in 1940, 1 time in 1938, 1 time in 1937, 1 time in 1936, 1 time in 1932, 1 time in 1931,
+Action appeared 16 times in 2018, 38 times in 2017, 48 times in 2016, 63 times in 2015, 62 times in 2014, 61 times in 2013, 56 times in 2012, 55 times in 2011, 65 times in 2010, 59 times in 2009, 73 times in 2008, 48 times in 2007, 49 times in 2006, 59 times in 2005, 63 times in 2004, 66 times in 2003, 45 times in 2002, 48 times in 2001, 39 times in 2000, 34 times in 1999, 47 times in 1998, 51 times in 1997, 41 times in 1996, 44 times in 1995, 40 times in 1994, 43 times in 1993, 31 times in 1992, 26 times in 1991, 35 times in 1990, 33 times in 1989, 29 times in 1988, 31 times in 1987, 27 times in 1986, 23 times in 1985, 17 times in 1984, 15 times in 1983, 14 times in 1982, 20 times in 1981, 18 times in 1980, 13 times in 1979, 15 times in 1978, 9 times in 1977, 7 times in 1976, 7 times in 1975, 11 times in 1974, 13 times in 1973, 6 times in 1972, 17 times in 1971, 5 times in 1970, 6 times in 1969, 7 times in 1968, 8 times in 1967, 4 times in 1966, 9 times in 1965, 6 times in 1964, 5 times in 1963, 4 times in 1962, 3 times in 1961, 4 times in 1960, 3 times in 1959, 3 times in 1958, 2 times in 1957, 1 time in 1955, 1 time in 1954, 3 times in 1953, 1 time in 1951, 1 time in 1950, 1 time in 1949, 3 times in 1948, 1 time in 1944, 1 time in 1942, 2 times in 1940, 1 time in 1939, 2 times in 1938, 1 time in 1937, 1 time in 1935, 1 time in 1933, 1 time in 1931, 1 time in 1930, 2 times in 1924, 1 time in 1923, 1 time in 1916, 1 time in 1902,
+Adventure appeared 12 times in 2018, 24 times in 2017, 36 times in 2016, 45 times in 2015, 35 times in 2014, 39 times in 2013, 31 times in 2012, 40 times in 2011, 30 times in 2010, 37 times in 2009, 50 times in 2008, 33 times in 2007, 38 times in 2006, 43 times in 2005, 44 times in 2004, 32 times in 2003, 37 times in 2002, 26 times in 2001, 23 times in 2000, 19 times in 1999, 31 times in 1998, 26 times in 1997, 35 times in 1996, 29 times in 1995, 30 times in 1994, 19 times in 1993, 12 times in 1992, 18 times in 1991, 20 times in 1990, 16 times in 1989, 18 times in 1988, 17 times in 1987, 24 times in 1986, 31 times in 1985, 18 times in 1984, 9 times in 1983, 10 times in 1982, 15 times in 1981, 12 times in 1980, 10 times in 1979, 8 times in 1978, 12 times in 1977, 8 times in 1976, 7 times in 1975, 5 times in 1974, 7 times in 1973, 5 times in 1972, 6 times in 1971, 3 times in 1970, 6 times in 1969, 9 times in 1968, 5 times in 1967, 5 times in 1966, 9 times in 1965, 6 times in 1964, 9 times in 1963, 7 times in 1962, 6 times in 1961, 3 times in 1960, 5 times in 1959, 4 times in 1958, 2 times in 1957, 5 times in 1956, 1 time in 1955, 3 times in 1954, 3 times in 1953, 2 times in 1952, 3 times in 1951, 2 times in 1950, 1 time in 1949, 4 times in 1948, 1 time in 1946, 2 times in 1944, 1 time in 1943, 1 time in 1941, 3 times in 1940, 4 times in 1939, 1 time in 1938, 2 times in 1937, 2 times in 1936, 2 times in 1935, 2 times in 1933, 1 time in 1926, 2 times in 1925, 2 times in 1924, 1 time in 1916, 1 time in 1902,
+Horror appeared 4 times in 2018, 13 times in 2017, 16 times in 2016, 36 times in 2015, 28 times in 2014, 22 times in 2013, 27 times in 2012, 20 times in 2011, 24 times in 2010, 41 times in 2009, 23 times in 2008, 43 times in 2007, 33 times in 2006, 36 times in 2005, 28 times in 2004, 25 times in 2003, 27 times in 2002, 19 times in 2001, 23 times in 2000, 22 times in 1999, 14 times in 1998, 18 times in 1997, 15 times in 1996, 19 times in 1995, 15 times in 1994, 12 times in 1993, 13 times in 1992, 9 times in 1991, 23 times in 1990, 11 times in 1989, 24 times in 1988, 28 times in 1987, 23 times in 1986, 16 times in 1985, 12 times in 1984, 13 times in 1983, 15 times in 1982, 16 times in 1981, 18 times in 1980, 10 times in 1979, 12 times in 1978, 8 times in 1977, 5 times in 1976, 5 times in 1975, 6 times in 1974, 10 times in 1973, 4 times in 1972, 1 time in 1971, 2 times in 1970, 1 time in 1969, 5 times in 1968, 4 times in 1967, 1 time in 1966, 3 times in 1965, 5 times in 1964, 6 times in 1963, 4 times in 1962, 3 times in 1961, 8 times in 1960, 7 times in 1959, 4 times in 1958, 3 times in 1957, 4 times in 1956, 2 times in 1955, 3 times in 1954, 1 time in 1953, 1 time in 1951, 1 time in 1949, 1 time in 1948, 4 times in 1945, 2 times in 1943, 1 time in 1942, 2 times in 1941, 1 time in 1940, 1 time in 1935, 3 times in 1933, 2 times in 1932, 3 times in 1931, 1 time in 1927, 1 time in 1926, 1 time in 1923, 1 time in 1922, 1 time in 1920,
+Romance appeared 1 time in 2018, 6 times in 2017, 18 times in 2016, 21 times in 2015, 35 times in 2014, 27 times in 2013, 31 times in 2012, 37 times in 2011, 41 times in 2010, 41 times in 2009, 47 times in 2008, 47 times in 2007, 54 times in 2006, 50 times in 2005, 52 times in 2004, 51 times in 2003, 58 times in 2002, 66 times in 2001, 57 times in 2000, 46 times in 1999, 56 times in 1998, 51 times in 1997, 53 times in 1996, 49 times in 1995, 41 times in 1994, 33 times in 1993, 36 times in 1992, 31 times in 1991, 26 times in 1990, 16 times in 1989, 23 times in 1988, 28 times in 1987, 15 times in 1986, 22 times in 1985, 12 times in 1984, 7 times in 1983, 12 times in 1982, 9 times in 1981, 10 times in 1980, 5 times in 1979, 2 times in 1978, 6 times in 1977, 4 times in 1976, 7 times in 1975, 6 times in 1974, 3 times in 1973, 4 times in 1972, 3 times in 1971, 4 times in 1970, 4 times in 1969, 4 times in 1968, 3 times in 1967, 7 times in 1966, 9 times in 1965, 7 times in 1964, 3 times in 1963, 7 times in 1962, 10 times in 1961, 6 times in 1960, 6 times in 1959, 7 times in 1958, 6 times in 1957, 4 times in 1956, 8 times in 1955, 4 times in 1954, 7 times in 1953, 6 times in 1952, 7 times in 1951, 9 times in 1950, 7 times in 1949, 3 times in 1948, 6 times in 1947, 5 times in 1946, 2 times in 1945, 5 times in 1944, 1 time in 1943, 10 times in 1942, 6 times in 1941, 9 times in 1940, 9 times in 1939, 4 times in 1938, 4 times in 1937, 10 times in 1936, 6 times in 1935, 3 times in 1934, 4 times in 1933, 4 times in 1932, 3 times in 1931, 1 time in 1930, 1 time in 1928, 2 times in 1927, 1 time in 1926, 2 times in 1925, 2 times in 1924, 1 time in 1923, 1 time in 1916,
+War appeared 3 times in 2017, 3 times in 2016, 2 times in 2015, 8 times in 2014, 6 times in 2013, 5 times in 2012, 6 times in 2011, 7 times in 2010, 7 times in 2009, 16 times in 2008, 13 times in 2007, 10 times in 2006, 12 times in 2005, 13 times in 2004, 11 times in 2003, 8 times in 2002, 13 times in 2001, 7 times in 2000, 4 times in 1999, 8 times in 1998, 7 times in 1997, 3 times in 1996, 14 times in 1995, 6 times in 1994, 5 times in 1993, 4 times in 1992, 1 time in 1991, 8 times in 1990, 5 times in 1989, 7 times in 1988, 8 times in 1987, 4 times in 1986, 5 times in 1985, 5 times in 1984, 2 times in 1983, 3 times in 1982, 5 times in 1981, 3 times in 1980, 3 times in 1979, 4 times in 1978, 6 times in 1977, 3 times in 1976, 1 time in 1975, 1 time in 1973, 1 time in 1972, 2 times in 1971, 7 times in 1970, 4 times in 1969, 3 times in 1968, 1 time in 1967, 6 times in 1966, 4 times in 1965, 7 times in 1964, 4 times in 1963, 4 times in 1962, 3 times in 1961, 4 times in 1960, 8 times in 1959, 3 times in 1958, 4 times in 1957, 1 time in 1956, 4 times in 1955, 1 time in 1954, 2 times in 1953, 1 time in 1952, 3 times in 1951, 1 time in 1950, 2 times in 1949, 1 time in 1948, 2 times in 1946, 3 times in 1945, 4 times in 1944, 1 time in 1943, 3 times in 1942, 1 time in 1941, 1 time in 1940, 2 times in 1939, 1 time in 1938, 1 time in 1937, 1 time in 1934, 1 time in 1933, 1 time in 1932, 1 time in 1930, 1 time in 1926, 1 time in 1925, 1 time in 1915,
+Western appeared 2 times in 2017, 1 time in 2016, 4 times in 2015, 3 times in 2014, 1 time in 2013, 1 time in 2012, 2 times in 2011, 5 times in 2010, 2 times in 2009, 5 times in 2008, 3 times in 2007, 1 time in 2006, 2 times in 2005, 3 times in 2004, 2 times in 2003, 2 times in 2002, 3 times in 2001, 3 times in 2000, 2 times in 1999, 2 times in 1998, 1 time in 1996, 6 times in 1995, 7 times in 1994, 3 times in 1993, 3 times in 1992, 2 times in 1991, 4 times in 1990, 1 time in 1989, 2 times in 1988, 3 times in 1987, 1 time in 1986, 2 times in 1985, 1 time in 1983, 1 time in 1982, 1 time in 1980, 2 times in 1979, 1 time in 1978, 1 time in 1977, 2 times in 1976, 1 time in 1975, 1 time in 1974, 3 times in 1973, 2 times in 1972, 3 times in 1971, 3 times in 1970, 6 times in 1969, 3 times in 1968, 1 time in 1967, 3 times in 1966, 4 times in 1965, 2 times in 1964, 1 time in 1963, 3 times in 1962, 2 times in 1961, 3 times in 1960, 2 times in 1959, 1 time in 1958, 1 time in 1957, 4 times in 1956, 3 times in 1955, 1 time in 1954, 2 times in 1953, 1 time in 1952, 4 times in 1950, 2 times in 1949, 2 times in 1948, 2 times in 1946, 1 time in 1943, 2 times in 1940, 2 times in 1939, 1 time in 1936, 1 time in 1931, 1 time in 1903,
+Documentary appeared 2 times in 2018, 10 times in 2017, 13 times in 2016, 19 times in 2015, 17 times in 2014, 8 times in 2013, 11 times in 2012, 22 times in 2011, 17 times in 2010, 12 times in 2009, 20 times in 2008, 18 times in 2007, 23 times in 2006, 24 times in 2005, 25 times in 2004, 22 times in 2003, 28 times in 2002, 12 times in 2001, 14 times in 2000, 13 times in 1999, 12 times in 1998, 8 times in 1997, 12 times in 1996, 6 times in 1995, 7 times in 1994, 3 times in 1993, 6 times in 1992, 4 times in 1991, 2 times in 1990, 2 times in 1989, 4 times in 1988, 1 time in 1987, 4 times in 1985, 2 times in 1984, 5 times in 1983, 5 times in 1982, 2 times in 1981, 1 time in 1980, 4 times in 1978, 2 times in 1977, 1 time in 1976, 1 time in 1975, 2 times in 1974, 1 time in 1971, 3 times in 1968, 2 times in 1967, 1 time in 1966, 1 time in 1964, 1 time in 1962, 1 time in 1955, 1 time in 1949, 2 times in 1934, 1 time in 1929,
+Sci-Fi appeared 13 times in 2018, 18 times in 2017, 29 times in 2016, 41 times in 2015, 32 times in 2014, 32 times in 2013, 28 times in 2012, 32 times in 2011, 19 times in 2010, 44 times in 2009, 32 times in 2008, 29 times in 2007, 25 times in 2006, 19 times in 2005, 31 times in 2004, 23 times in 2003, 27 times in 2002, 17 times in 2001, 19 times in 2000, 17 times in 1999, 28 times in 1998, 22 times in 1997, 21 times in 1996, 20 times in 1995, 11 times in 1994, 14 times in 1993, 10 times in 1992, 13 times in 1991, 17 times in 1990, 17 times in 1989, 17 times in 1988, 20 times in 1987, 19 times in 1986, 18 times in 1985, 18 times in 1984, 10 times in 1983, 11 times in 1982, 12 times in 1981, 14 times in 1980, 12 times in 1979, 8 times in 1978, 4 times in 1977, 4 times in 1976, 7 times in 1975, 2 times in 1974, 10 times in 1973, 6 times in 1972, 5 times in 1971, 1 time in 1970, 1 time in 1969, 7 times in 1968, 3 times in 1967, 3 times in 1966, 4 times in 1965, 3 times in 1964, 4 times in 1963, 3 times in 1962, 3 times in 1961, 4 times in 1960, 7 times in 1959, 4 times in 1958, 5 times in 1957, 6 times in 1956, 2 times in 1955, 4 times in 1954, 2 times in 1953, 1 time in 1952, 4 times in 1951, 2 times in 1940, 1 time in 1935, 1 time in 1933, 1 time in 1931, 1 time in 1927, 1 time in 1924, 1 time in 1916, 1 time in 1908, 1 time in 1902,
+Drama appeared 9 times in 2018, 45 times in 2017, 69 times in 2016, 101 times in 2015, 117 times in 2014, 98 times in 2013, 92 times in 2012, 110 times in 2011, 102 times in 2010, 131 times in 2009, 113 times in 2008, 142 times in 2007, 146 times in 2006, 140 times in 2005, 128 times in 2004, 129 times in 2003, 150 times in 2002, 148 times in 2001, 138 times in 2000, 124 times in 1999, 122 times in 1998, 125 times in 1997, 128 times in 1996, 123 times in 1995, 114 times in 1994, 99 times in 1993, 78 times in 1992, 63 times in 1991, 62 times in 1990, 60 times in 1989, 67 times in 1988, 56 times in 1987, 55 times in 1986, 45 times in 1985, 35 times in 1984, 29 times in 1983, 29 times in 1982, 31 times in 1981, 32 times in 1980, 32 times in 1979, 17 times in 1978, 27 times in 1977, 21 times in 1976, 19 times in 1975, 20 times in 1974, 29 times in 1973, 22 times in 1972, 20 times in 1971, 18 times in 1970, 17 times in 1969, 17 times in 1968, 23 times in 1967, 18 times in 1966, 24 times in 1965, 17 times in 1964, 15 times in 1963, 24 times in 1962, 18 times in 1961, 19 times in 1960, 15 times in 1959, 11 times in 1958, 18 times in 1957, 18 times in 1956, 21 times in 1955, 15 times in 1954, 17 times in 1953, 9 times in 1952, 12 times in 1951, 10 times in 1950, 15 times in 1949, 15 times in 1948, 12 times in 1947, 14 times in 1946, 7 times in 1945, 11 times in 1944, 8 times in 1943, 13 times in 1942, 9 times in 1941, 14 times in 1940, 15 times in 1939, 9 times in 1938, 12 times in 1937, 7 times in 1936, 6 times in 1935, 4 times in 1934, 4 times in 1933, 4 times in 1932, 9 times in 1931, 4 times in 1930, 1 time in 1928, 5 times in 1927, 3 times in 1926, 2 times in 1925, 2 times in 1924, 2 times in 1923, 1 time in 1921, 1 time in 1919, 1 time in 1916, 1 time in 1915,
+Thriller appeared 13 times in 2018, 22 times in 2017, 41 times in 2016, 57 times in 2015, 60 times in 2014, 50 times in 2013, 54 times in 2012, 64 times in 2011, 56 times in 2010, 72 times in 2009, 60 times in 2008, 77 times in 2007, 76 times in 2006, 68 times in 2005, 57 times in 2004, 60 times in 2003, 72 times in 2002, 53 times in 2001, 59 times in 2000, 48 times in 1999, 52 times in 1998, 64 times in 1997, 61 times in 1996, 42 times in 1995, 35 times in 1994, 32 times in 1993, 32 times in 1992, 22 times in 1991, 32 times in 1990, 20 times in 1989, 29 times in 1988, 24 times in 1987, 21 times in 1986, 18 times in 1985, 13 times in 1984, 13 times in 1983, 13 times in 1982, 19 times in 1981, 10 times in 1980, 10 times in 1979, 7 times in 1978, 7 times in 1977, 15 times in 1976, 5 times in 1975, 12 times in 1974, 14 times in 1973, 7 times in 1972, 13 times in 1971, 5 times in 1970, 4 times in 1969, 5 times in 1968, 5 times in 1967, 3 times in 1966, 9 times in 1965, 7 times in 1964, 7 times in 1963, 5 times in 1962, 1 time in 1961, 3 times in 1960, 2 times in 1959, 4 times in 1958, 4 times in 1957, 4 times in 1956, 6 times in 1955, 4 times in 1954, 5 times in 1953, 2 times in 1951, 1 time in 1950, 3 times in 1949, 4 times in 1948, 2 times in 1947, 5 times in 1946, 3 times in 1945, 3 times in 1944, 2 times in 1943, 5 times in 1942, 2 times in 1941, 3 times in 1940, 1 time in 1939, 2 times in 1938, 1 time in 1937, 3 times in 1936, 1 time in 1935, 1 time in 1934, 1 time in 1933, 1 time in 1931, 1 time in 1927, 1 time in 1924,
+Crime appeared 6 times in 2018, 13 times in 2017, 15 times in 2016, 30 times in 2015, 38 times in 2014, 35 times in 2013, 32 times in 2012, 26 times in 2011, 23 times in 2010, 39 times in 2009, 40 times in 2008, 40 times in 2007, 35 times in 2006, 42 times in 2005, 36 times in 2004, 48 times in 2003, 49 times in 2002, 36 times in 2001, 39 times in 2000, 19 times in 1999, 36 times in 1998, 33 times in 1997, 32 times in 1996, 33 times in 1995, 27 times in 1994, 20 times in 1993, 23 times in 1992, 17 times in 1991, 24 times in 1990, 22 times in 1989, 19 times in 1988, 21 times in 1987, 19 times in 1986, 11 times in 1985, 7 times in 1984, 8 times in 1983, 5 times in 1982, 7 times in 1981, 5 times in 1980, 5 times in 1979, 4 times in 1978, 4 times in 1977, 8 times in 1976, 5 times in 1975, 10 times in 1974, 17 times in 1973, 5 times in 1972, 8 times in 1971, 4 times in 1970, 3 times in 1969, 4 times in 1968, 6 times in 1967, 6 times in 1966, 4 times in 1965, 2 times in 1964, 6 times in 1963, 4 times in 1962, 1 time in 1961, 7 times in 1960, 3 times in 1959, 5 times in 1958, 2 times in 1956, 8 times in 1955, 4 times in 1954, 2 times in 1953, 2 times in 1951, 3 times in 1950, 2 times in 1949, 4 times in 1948, 6 times in 1947, 5 times in 1946, 3 times in 1945, 2 times in 1944, 2 times in 1943, 3 times in 1942, 2 times in 1941, 2 times in 1939, 1 time in 1938, 2 times in 1937, 2 times in 1936, 1 time in 1934, 1 time in 1933, 3 times in 1932, 3 times in 1931, 1 time in 1927, 1 time in 1920, 1 time in 1903,
+Fantasy appeared 7 times in 2018, 14 times in 2017, 22 times in 2016, 21 times in 2015, 15 times in 2014, 28 times in 2013, 23 times in 2012, 19 times in 2011, 29 times in 2010, 32 times in 2009, 31 times in 2008, 24 times in 2007, 38 times in 2006, 22 times in 2005, 29 times in 2004, 18 times in 2003, 20 times in 2002, 20 times in 2001, 18 times in 2000, 17 times in 1999, 19 times in 1998, 15 times in 1997, 13 times in 1996, 16 times in 1995, 16 times in 1994, 15 times in 1993, 9 times in 1992, 14 times in 1991, 15 times in 1990, 13 times in 1989, 16 times in 1988, 16 times in 1987, 10 times in 1986, 16 times in 1985, 11 times in 1984, 7 times in 1983, 7 times in 1982, 8 times in 1981, 2 times in 1980, 2 times in 1979, 5 times in 1978, 9 times in 1977, 3 times in 1976, 2 times in 1975, 3 times in 1974, 2 times in 1973, 1 time in 1972, 1 time in 1971, 3 times in 1970, 4 times in 1969, 2 times in 1968, 1 time in 1967, 1 time in 1966, 2 times in 1965, 5 times in 1964, 3 times in 1963, 3 times in 1962, 3 times in 1961, 1 time in 1960, 1 time in 1959, 2 times in 1958, 1 time in 1956, 1 time in 1954, 2 times in 1953, 2 times in 1951, 2 times in 1950, 1 time in 1948, 1 time in 1947, 2 times in 1946, 1 time in 1945, 1 time in 1943, 2 times in 1941, 3 times in 1940, 1 time in 1939, 2 times in 1938, 1 time in 1937, 1 time in 1935, 1 time in 1934, 2 times in 1933, 1 time in 1929, 1 time in 1926, 3 times in 1924, 1 time in 1920, 1 time in 1916, 1 time in 1902,
+Animation appeared 3 times in 2018, 18 times in 2017, 22 times in 2016, 19 times in 2015, 15 times in 2014, 26 times in 2013, 25 times in 2012, 26 times in 2011, 18 times in 2010, 32 times in 2009, 23 times in 2008, 22 times in 2007, 26 times in 2006, 15 times in 2005, 18 times in 2004, 20 times in 2003, 13 times in 2002, 17 times in 2001, 18 times in 2000, 8 times in 1999, 18 times in 1998, 11 times in 1997, 9 times in 1996, 16 times in 1995, 12 times in 1994, 9 times in 1993, 8 times in 1992, 6 times in 1991, 6 times in 1990, 9 times in 1989, 11 times in 1988, 9 times in 1987, 9 times in 1986, 4 times in 1985, 4 times in 1984, 5 times in 1983, 6 times in 1982, 5 times in 1981, 1 time in 1980, 3 times in 1979, 3 times in 1978, 6 times in 1977, 1 time in 1976, 1 time in 1975, 1 time in 1974, 5 times in 1973, 1 time in 1972, 2 times in 1971, 3 times in 1970, 5 times in 1969, 7 times in 1968, 1 time in 1967, 3 times in 1966, 3 times in 1965, 3 times in 1964, 1 time in 1963, 1 time in 1961, 1 time in 1959, 1 time in 1955, 1 time in 1954, 2 times in 1953, 1 time in 1951, 1 time in 1950, 2 times in 1949, 1 time in 1946, 1 time in 1945, 1 time in 1942, 1 time in 1941, 2 times in 1940, 2 times in 1939, 2 times in 1938, 1 time in 1937, 1 time in 1928, 1 time in 1908,
+IMAX appeared 1 time in 2015, 14 times in 2014, 29 times in 2013, 25 times in 2012, 20 times in 2011, 15 times in 2010, 10 times in 2009, 8 times in 2008, 6 times in 2007, 7 times in 2006, 4 times in 2005, 3 times in 2004, 3 times in 2003, 2 times in 2002, 1 time in 2000, 1 time in 1999, 3 times in 1998, 1 time in 1997, 1 time in 1995, 2 times in 1994, 1 time in 1992, 1 time in 1991,
+Comedy appeared 17 times in 2018, 56 times in 2017, 75 times in 2016, 104 times in 2015, 116 times in 2014, 89 times in 2013, 103 times in 2012, 101 times in 2011, 97 times in 2010, 111 times in 2009, 104 times in 2008, 102 times in 2007, 118 times in 2006, 120 times in 2005, 111 times in 2004, 109 times in 2003, 116 times in 2002, 127 times in 2001, 117 times in 2000, 113 times in 1999, 99 times in 1998, 94 times in 1997, 108 times in 1996, 91 times in 1995, 111 times in 1994, 77 times in 1993, 69 times in 1992, 69 times in 1991, 59 times in 1990, 71 times in 1989, 72 times in 1988, 77 times in 1987, 54 times in 1986, 54 times in 1985, 40 times in 1984, 31 times in 1983, 32 times in 1982, 32 times in 1981, 29 times in 1980, 24 times in 1979, 19 times in 1978, 21 times in 1977, 16 times in 1976, 12 times in 1975, 13 times in 1974, 13 times in 1973, 15 times in 1972, 12 times in 1971, 10 times in 1970, 11 times in 1969, 13 times in 1968, 14 times in 1967, 19 times in 1966, 17 times in 1965, 17 times in 1964, 15 times in 1963, 7 times in 1962, 12 times in 1961, 7 times in 1960, 7 times in 1959, 10 times in 1958, 8 times in 1957, 4 times in 1956, 8 times in 1955, 3 times in 1954, 9 times in 1953, 7 times in 1952, 5 times in 1951, 6 times in 1950, 8 times in 1949, 3 times in 1948, 9 times in 1947, 1 time in 1946, 2 times in 1945, 4 times in 1944, 9 times in 1942, 8 times in 1941, 11 times in 1940, 9 times in 1939, 8 times in 1938, 3 times in 1937, 7 times in 1936, 7 times in 1935, 6 times in 1934, 5 times in 1933, 3 times in 1932, 4 times in 1931, 1 time in 1930, 1 time in 1929, 3 times in 1928, 1 time in 1927, 2 times in 1926, 2 times in 1925, 2 times in 1924, 2 times in 1923, 1 time in 1921, 1 time in 1920, 1 time in 1919, 1 time in 1917, 1 time in 1916, 1 time in 1908,
+Mystery appeared 5 times in 2018, 6 times in 2017, 8 times in 2016, 16 times in 2015, 16 times in 2014, 14 times in 2013, 9 times in 2012, 16 times in 2011, 16 times in 2010, 24 times in 2009, 15 times in 2008, 14 times in 2007, 25 times in 2006, 17 times in 2005, 19 times in 2004, 21 times in 2003, 21 times in 2002, 19 times in 2001, 8 times in 2000, 14 times in 1999, 11 times in 1998, 21 times in 1997, 10 times in 1996, 18 times in 1995, 8 times in 1994, 12 times in 1993, 5 times in 1992, 10 times in 1991, 6 times in 1990, 6 times in 1989, 10 times in 1988, 7 times in 1987, 7 times in 1986, 7 times in 1985, 2 times in 1984, 4 times in 1983, 6 times in 1982, 7 times in 1981, 6 times in 1980, 3 times in 1979, 4 times in 1978, 3 times in 1977, 6 times in 1976, 4 times in 1975, 4 times in 1974, 3 times in 1973, 3 times in 1972, 6 times in 1971, 2 times in 1970, 1 time in 1969, 2 times in 1968, 3 times in 1967, 2 times in 1966, 4 times in 1965, 3 times in 1964, 2 times in 1963, 1 time in 1962, 2 times in 1960, 2 times in 1959, 2 times in 1958, 1 time in 1957, 1 time in 1956, 4 times in 1955, 2 times in 1954, 1 time in 1953, 4 times in 1950, 2 times in 1949, 1 time in 1948, 2 times in 1947, 4 times in 1946, 6 times in 1945, 2 times in 1944, 2 times in 1942, 4 times in 1941, 2 times in 1940, 1 time in 1939, 1 time in 1938, 1 time in 1936, 1 time in 1935, 1 time in 1933, 1 time in 1931, 1 time in 1927,
+Children appeared 3 times in 2018, 9 times in 2017, 13 times in 2016, 14 times in 2015, 15 times in 2014, 8 times in 2013, 10 times in 2012, 19 times in 2011, 17 times in 2010, 17 times in 2009, 22 times in 2008, 14 times in 2007, 22 times in 2006, 25 times in 2005, 19 times in 2004, 23 times in 2003, 19 times in 2002, 12 times in 2001, 17 times in 2000, 13 times in 1999, 24 times in 1998, 25 times in 1997, 23 times in 1996, 29 times in 1995, 24 times in 1994, 17 times in 1993, 13 times in 1992, 7 times in 1991, 8 times in 1990, 9 times in 1989, 10 times in 1988, 8 times in 1987, 10 times in 1986, 11 times in 1985, 5 times in 1984, 5 times in 1983, 6 times in 1982, 3 times in 1981, 2 times in 1980, 5 times in 1979, 6 times in 1978, 8 times in 1977, 3 times in 1976, 2 times in 1975, 3 times in 1974, 3 times in 1973, 1 time in 1972, 3 times in 1971, 4 times in 1970, 6 times in 1969, 8 times in 1968, 4 times in 1967, 3 times in 1966, 4 times in 1965, 2 times in 1964, 3 times in 1963, 2 times in 1962, 4 times in 1961, 4 times in 1960, 4 times in 1959, 1 time in 1957, 1 time in 1956, 1 time in 1955, 3 times in 1953, 1 time in 1951, 2 times in 1950, 2 times in 1949, 1 time in 1948, 3 times in 1946, 1 time in 1945, 1 time in 1944, 1 time in 1942, 1 time in 1941, 2 times in 1940, 4 times in 1939, 2 times in 1938, 2 times in 1937, 1 time in 1934, 1 time in 1933, 1 time in 1928,
+Musical appeared 1 time in 2015, 5 times in 2014, 1 time in 2013, 7 times in 2012, 3 times in 2011, 6 times in 2010, 7 times in 2009, 9 times in 2008, 9 times in 2007, 6 times in 2006, 8 times in 2005, 8 times in 2004, 7 times in 2003, 11 times in 2002, 7 times in 2001, 4 times in 2000, 4 times in 1999, 8 times in 1998, 6 times in 1997, 9 times in 1996, 4 times in 1995, 3 times in 1994, 4 times in 1993, 5 times in 1992, 7 times in 1991, 3 times in 1990, 3 times in 1989, 6 times in 1988, 2 times in 1987, 4 times in 1986, 1 time in 1985, 7 times in 1984, 3 times in 1983, 8 times in 1982, 3 times in 1981, 4 times in 1980, 4 times in 1979, 2 times in 1978, 4 times in 1977, 1 time in 1976, 3 times in 1975, 1 time in 1974, 2 times in 1973, 2 times in 1972, 3 times in 1971, 1 time in 1970, 4 times in 1969, 8 times in 1968, 5 times in 1967, 3 times in 1966, 4 times in 1965, 6 times in 1964, 1 time in 1963, 3 times in 1962, 3 times in 1961, 2 times in 1960, 2 times in 1959, 3 times in 1958, 3 times in 1957, 4 times in 1956, 2 times in 1955, 4 times in 1954, 6 times in 1953, 1 time in 1952, 5 times in 1951, 2 times in 1950, 3 times in 1949, 2 times in 1948, 1 time in 1947, 4 times in 1946, 2 times in 1945, 2 times in 1944, 2 times in 1942, 2 times in 1941, 3 times in 1940, 2 times in 1939, 1 time in 1938, 3 times in 1937, 4 times in 1936, 4 times in 1935, 2 times in 1934, 4 times in 1933, 1 time in 1931, 1 time in 1930, 2 times in 1929, 1 time in 1928, 1 time in 1927,
+
+1 movies released in 1902
+1 movies released in 1903
+1 movies released in 1908
+1 movies released in 1915
+4 movies released in 1916
+1 movies released in 1917
+1 movies released in 1919
+2 movies released in 1920
+1 movies released in 1921
+1 movies released in 1922
+4 movies released in 1923
+5 movies released in 1924
+4 movies released in 1925
+5 movies released in 1926
+7 movies released in 1927
+4 movies released in 1928
+4 movies released in 1929
+5 movies released in 1930
+14 movies released in 1931
+9 movies released in 1932
+12 movies released in 1933
+11 movies released in 1934
+13 movies released in 1935
+18 movies released in 1936
+16 movies released in 1937
+15 movies released in 1938
+23 movies released in 1939
+25 movies released in 1940
+18 movies released in 1941
+23 movies released in 1942
+10 movies released in 1943
+16 movies released in 1944
+17 movies released in 1945
+23 movies released in 1946
+20 movies released in 1947
+20 movies released in 1948
+25 movies released in 1949
+21 movies released in 1950
+22 movies released in 1951
+16 movies released in 1952
+30 movies released in 1953
+23 movies released in 1954
+36 movies released in 1955
+30 movies released in 1956
+33 movies released in 1957
+31 movies released in 1958
+37 movies released in 1959
+37 movies released in 1960
+34 movies released in 1961
+40 movies released in 1962
+39 movies released in 1963
+43 movies released in 1964
+47 movies released in 1965
+42 movies released in 1966
+42 movies released in 1967
+42 movies released in 1968
+35 movies released in 1969
+33 movies released in 1970
+47 movies released in 1971
+39 movies released in 1972
+59 movies released in 1973
+45 movies released in 1974
+42 movies released in 1975
+44 movies released in 1976
+63 movies released in 1977
+59 movies released in 1978
+69 movies released in 1979
+89 movies released in 1980
+92 movies released in 1981
+87 movies released in 1982
+83 movies released in 1983
+101 movies released in 1984
+126 movies released in 1985
+139 movies released in 1986
+153 movies released in 1987
+165 movies released in 1988
+142 movies released in 1989
+147 movies released in 1990
+147 movies released in 1991
+167 movies released in 1992
+198 movies released in 1993
+237 movies released in 1994
+259 movies released in 1995
+276 movies released in 1996
+260 movies released in 1997
+258 movies released in 1998
+263 movies released in 1999
+283 movies released in 2000
+294 movies released in 2001
+311 movies released in 2002
+279 movies released in 2003
+279 movies released in 2004
+273 movies released in 2005
+295 movies released in 2006
+285 movies released in 2007
+269 movies released in 2008
+282 movies released in 2009
+247 movies released in 2010
+254 movies released in 2011
+233 movies released in 2012
+239 movies released in 2013
+278 movies released in 2014
+274 movies released in 2015
+218 movies released in 2016
+147 movies released in 2017
+41 movies released in 2018
